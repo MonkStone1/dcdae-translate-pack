@@ -1,0 +1,71 @@
+{
+  "itemgroup.terracotta_stairs": "G.U.T.S.",
+
+  "block.terracottastairs.terracotta_stairs": "Ступеньки из керамики",
+  "block.terracottastairs.terracotta_slab": "Плита из керамики",
+  "block.terracottastairs.terracotta_wall": "Ограда из керамики",
+
+  "block.terracottastairs.white_terracotta_stairs": "Ступеньки из белой керамики",
+  "block.terracottastairs.white_terracotta_slab": "Плита из белой керамики",
+  "block.terracottastairs.white_terracotta_wall": "Ограда из белой керамики",
+
+  "block.terracottastairs.light_gray_terracotta_stairs": "Ступеньки из светло-серой керамики",
+  "block.terracottastairs.light_gray_terracotta_slab": "Плита из светло-серой керамики",
+  "block.terracottastairs.light_gray_terracotta_wall": "Ограда из светло-серой керамики",
+
+  "block.terracottastairs.gray_terracotta_stairs": "Ступеньки из серой керамики",
+  "block.terracottastairs.gray_terracotta_slab": "Плита из серой керамики",
+  "block.terracottastairs.gray_terracotta_wall": "Ограда из серой керамики",
+
+  "block.terracottastairs.black_terracotta_stairs": "Ступеньки из чёрной керамики",
+  "block.terracottastairs.black_terracotta_slab": "Плита из чёрной керамики",
+  "block.terracottastairs.black_terracotta_wall": "Ограда из чёрной керамики",
+
+  "block.terracottastairs.brown_terracotta_stairs": "Ступеньки из коричневой керамики",
+  "block.terracottastairs.brown_terracotta_slab": "Плита из коричневой керамики",
+  "block.terracottastairs.brown_terracotta_wall": "Ограда из коричневой керамики",
+
+  "block.terracottastairs.red_terracotta_stairs": "Ступеньки из красной керамики",
+  "block.terracottastairs.red_terracotta_slab": "Плита из красной керамики",
+  "block.terracottastairs.red_terracotta_wall": "Ограда из красной керамики",
+
+  "block.terracottastairs.orange_terracotta_stairs": "Ступеньки из оранжевой керамики",
+  "block.terracottastairs.orange_terracotta_slab": "Плита из оранжевой керамики",
+  "block.terracottastairs.orange_terracotta_wall": "Ограда из оранжевой керамики",
+
+  "block.terracottastairs.yellow_terracotta_stairs": "Ступеньки из жёлтой керамики",
+  "block.terracottastairs.yellow_terracotta_slab": "Плита из жёлтой керамики",
+  "block.terracottastairs.yellow_terracotta_wall": "Ограда из жёлтой керамики",
+
+  "block.terracottastairs.lime_terracotta_stairs": "Ступеньки из лаймовой керамики",
+  "block.terracottastairs.lime_terracotta_slab": "Плита из лаймовой керамики",
+  "block.terracottastairs.lime_terracotta_wall": "Ограда из лаймовой керамики",
+
+  "block.terracottastairs.green_terracotta_stairs": "Ступеньки из зелёной керамики",
+  "block.terracottastairs.green_terracotta_slab": "Плита из зелёной керамики",
+  "block.terracottastairs.green_terracotta_wall": "Ограда из зелёной керамики",
+
+  "block.terracottastairs.cyan_terracotta_stairs": "Ступеньки из бирюзовой керамики",
+  "block.terracottastairs.cyan_terracotta_slab": "Плита из бирюзовой керамики",
+  "block.terracottastairs.cyan_terracotta_wall": "Ограда из бирюзовой керамики",
+
+  "block.terracottastairs.light_blue_terracotta_stairs": "Ступеньки из голубой керамики",
+  "block.terracottastairs.light_blue_terracotta_slab": "Плита из голубой керамики",
+  "block.terracottastairs.light_blue_terracotta_wall": "Ограда из голубой керамики",
+
+  "block.terracottastairs.blue_terracotta_stairs": "Ступеньки из синей керамики",
+  "block.terracottastairs.blue_terracotta_slab": "Плита из синей керамики",
+  "block.terracottastairs.blue_terracotta_wall": "Ограда из синей керамики",
+
+  "block.terracottastairs.purple_terracotta_stairs": "Ступеньки из фиолетовой керамики",
+  "block.terracottastairs.purple_terracotta_slab": "Плита из фиолетовой керамики",
+  "block.terracottastairs.purple_terracotta_wall": "Ограда из фиолетовой керамики",
+
+  "block.terracottastairs.magenta_terracotta_stairs": "Ступеньки из пурпурной керамики",
+  "block.terracottastairs.magenta_terracotta_slab": "Плита из пурпурной керамики",
+  "block.terracottastairs.magenta_terracotta_wall": "Ограда из пурпурной керамики",
+
+  "block.terracottastairs.pink_terracotta_stairs": "Ступеньки из розовой керамики",
+  "block.terracottastairs.pink_terracotta_slab": "Плита из розовой керамики",
+  "block.terracottastairs.pink_terracotta_wall": "Ограда из розовой керамики"
+}

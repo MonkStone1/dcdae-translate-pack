@@ -1,0 +1,67 @@
+{
+  "itemgroup.concrete_slabs": "G.U.C.S.",
+
+  "block.concreteslabs.white_concrete_stairs": "Ступеньки из белого бетона",
+  "block.concreteslabs.white_concrete_slab": "Белая бетонная плита",
+  "block.concreteslabs.white_concrete_wall": "Белая бетонная ограда",
+
+  "block.concreteslabs.light_gray_concrete_stairs": "Ступеньки из светло-серого бетона",
+  "block.concreteslabs.light_gray_concrete_slab": "Светло-серая бетонная плита",
+  "block.concreteslabs.light_gray_concrete_wall": "Светло-серая бетонная ограда",
+
+  "block.concreteslabs.gray_concrete_stairs": "Ступеньки из серого бетона",
+  "block.concreteslabs.gray_concrete_slab": "Серая бетонная плита",
+  "block.concreteslabs.gray_concrete_wall": "Серая бетонная ограда",
+
+  "block.concreteslabs.black_concrete_stairs": "Ступеньки из чёрного бетона",
+  "block.concreteslabs.black_concrete_slab": "Чёрная бетонная плита",
+  "block.concreteslabs.black_concrete_wall": "Чёрная бетонная ограда",
+
+  "block.concreteslabs.brown_concrete_stairs": "Ступеньки из коричневого бетона",
+  "block.concreteslabs.brown_concrete_slab": "Коричневая бетонная плита",
+  "block.concreteslabs.brown_concrete_wall": "Коричневая бетонная ограда",
+
+  "block.concreteslabs.red_concrete_stairs": "Ступеньки из красного бетона",
+  "block.concreteslabs.red_concrete_slab": "Красная бетонная плита",
+  "block.concreteslabs.red_concrete_wall": "Красная бетонная ограда",
+
+  "block.concreteslabs.orange_concrete_stairs": "Ступеньки из оранжевого бетона",
+  "block.concreteslabs.orange_concrete_slab": "Оранжевая бетонная плита",
+  "block.concreteslabs.orange_concrete_wall": "Оранжевая бетонная ограда",
+
+  "block.concreteslabs.yellow_concrete_stairs": "Ступеньки из жёлтого бетона",
+  "block.concreteslabs.yellow_concrete_slab": "Жёлтая бетонная плита",
+  "block.concreteslabs.yellow_concrete_wall": "Жёлтая бетонная ограда",
+
+  "block.concreteslabs.lime_concrete_stairs": "Ступеньки из лаймового бетона",
+  "block.concreteslabs.lime_concrete_slab": "Лаймовая бетонная плита",
+  "block.concreteslabs.lime_concrete_wall": "Лаймовая бетонная ограда",
+
+  "block.concreteslabs.green_concrete_stairs": "Ступеньки из зелёного бетона",
+  "block.concreteslabs.green_concrete_slab": "Зелёная бетонная плита",
+  "block.concreteslabs.green_concrete_wall": "Зелёная бетонная ограда",
+
+  "block.concreteslabs.cyan_concrete_stairs": "Ступеньки из бирюзового бетона",
+  "block.concreteslabs.cyan_concrete_slab": "Бирюзовая бетонная плита",
+  "block.concreteslabs.cyan_concrete_wall": "Бирюзовая бетонная ограда",
+
+  "block.concreteslabs.light_blue_concrete_stairs": "Ступеньки из голубого бетона",
+  "block.concreteslabs.light_blue_concrete_slab": "Голубая бетонная плита",
+  "block.concreteslabs.light_blue_concrete_wall": "Голубая бетонная ограда",
+
+  "block.concreteslabs.blue_concrete_stairs": "Ступеньки из синего бетона",
+  "block.concreteslabs.blue_concrete_slab": "Синяя бетонная плита",
+  "block.concreteslabs.blue_concrete_wall": "Синяя бетонная ограда",
+
+  "block.concreteslabs.purple_concrete_stairs": "Ступеньки из фиолетового бетона",
+  "block.concreteslabs.purple_concrete_slab": "Фиолетовая бетонная плита",
+  "block.concreteslabs.purple_concrete_wall": "Фиолетовая бетонная ограда",
+
+  "block.concreteslabs.magenta_concrete_stairs": "Ступеньки из пурпурного бетона",
+  "block.concreteslabs.magenta_concrete_slab": "Пурпурная бетонная плита",
+  "block.concreteslabs.magenta_concrete_wall": "Пурпурная бетонная ограда",
+
+  "block.concreteslabs.pink_concrete_stairs": "Ступеньки из розового бетона",
+  "block.concreteslabs.pink_concrete_slab": "Розовая бетонная плита",
+  "block.concreteslabs.pink_concrete_wall": "Розовая бетонная ограда"
+}
